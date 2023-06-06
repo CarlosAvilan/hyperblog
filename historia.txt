@@ -5,3 +5,5 @@ Esta es una prueba de Platzi para trabajar con Git
 Supongo que haremos algo con el texto plano
 
 Pongo algo más al final
+
+Añado esto como párrafo de cierre.
